@@ -1,0 +1,6 @@
+{
+  "name": "Clakett Studio",
+  "description": "Professional workspace and store for content creators, integrating Google Workspace (Calendar, Drive, Docs, Slides, Gmail, Keep, Tasks, Forms, Contacts) and Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
